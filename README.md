@@ -1,3 +1,5 @@
+
+<img width="1024" height="1536" alt="yes" src="https://github.com/user-attachments/assets/8f8db402-25c0-4d1d-ab0f-98fa0c88ded9" />
 # 🛡️ Home SOC Detection Lab
 
 A fully functional Home Security Operations Center (SOC) built using **Wazuh SIEM**, **Sysmon**, and a **Windows 11 endpoint**. This lab demonstrates endpoint monitoring, log collection, process creation visibility, and centralized security analysis.
