@@ -1,3 +1,4 @@
+[wazuh-module-overview-general-1782006916.pdf](https://github.com/user-attachments/files/29169831/wazuh-module-overview-general-1782006916.pdf)
 
 <img width="1024" height="1536" alt="yes" src="https://github.com/user-attachments/assets/8f8db402-25c0-4d1d-ab0f-98fa0c88ded9" />
 # 🛡️ Home SOC Detection Lab
